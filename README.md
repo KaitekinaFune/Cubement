@@ -1,4 +1,6 @@
 # Cubement
-This is **Cubement**, a simple "dodge the obstacle" Unity Game.
-Even though it's my first attempt, I'm kinda happy with how it turned out.
+## This is **Cubement**, a simple _dodge the obstacle_ Unity Game.
+Despite the fact that this is my first attempt, I am mostly happy with the result
+
+## Gameplay:
 ![](animation.gif)
