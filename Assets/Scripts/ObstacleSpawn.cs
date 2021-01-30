@@ -5,7 +5,7 @@ using System.Linq;
 public class ObstacleSpawn : MonoBehaviour
 {
 	private int objNum;
-	public float DelayTime = 2f;
+	public float DelayTime = 1.9f;
 	public GameObject Player;
 	public float Speed = 2000f;
 	public List<GameObject> Obstacles;

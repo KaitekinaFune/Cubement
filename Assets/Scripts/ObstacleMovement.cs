@@ -15,7 +15,7 @@ public class ObstacleMovement : MonoBehaviour
         rb.AddForce(0, 0, forwardForce * Time.deltaTime);
         if (gameObject)
         {
-            if (rb.position.z < -25)
+            if (rb.position.z < -40)
                 Destroy(gameObject);
 		}
     }
